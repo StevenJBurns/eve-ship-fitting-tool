@@ -5,6 +5,6 @@ import './index.scss';
 
 /* import * as serviceWorker from './serviceWorker'; */
 
-ReactDOM.render(<App />, document.querySelector('react-root'));
+ReactDOM.render(<App />, document.querySelector('#react-root'));
 
 /* serviceWorker.unregister(); */
